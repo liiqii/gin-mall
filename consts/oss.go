@@ -1,6 +1,6 @@
 package consts
 
 const (
-	UploadModelOss   = "oss"
-	UploadModelLocal = "local"
+    UploadModelOss   = "oss"
+    UploadModelLocal = "local"
 )
